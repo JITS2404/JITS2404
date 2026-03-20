@@ -114,7 +114,7 @@ I focus on building systems where:
 ## 🤝 Connect
 
 - 🔗 LinkedIn: https://linkedin.com/in/jerom-issac-t-s  
-- 📧 Email: jeromissac2004@gmail.com  
+  
 
 ---
 
